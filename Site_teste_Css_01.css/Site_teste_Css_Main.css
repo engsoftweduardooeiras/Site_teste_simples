@@ -1,1 +1,14 @@
-sddsv
+<!DOCTYPE...>
+<html smlns=...>
+  <head>
+    <title> Exemplo de CSS <\title>
+  <style type="text/css">
+    @import url("Estilo_01.css") all;
+  </style>
+  <\head>
+  <body>
+    <p> 
+         Paralelepípedo Maioral.
+    <\p>
+  <\body>
+<\html>
