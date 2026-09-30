@@ -1,6 +1,8 @@
 body {
   background-image: url(PROTETOR DE TELA COMPUTADOR2.jpg);
-  backgroud-repeat: repeat-x;
+  backgroud-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 p {
   color: green;
